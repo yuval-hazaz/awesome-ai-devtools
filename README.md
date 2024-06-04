@@ -175,6 +175,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [SuperAGI](https://superagi.com/) — Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
+- [Amplication](https://amplication.com/jovu--production-ready-ai-code-generation) — The only production-ready AI-powered backend code generation.
 
 ## OpenAI plugins
 
